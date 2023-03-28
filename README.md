@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevinkp09
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Devops and Web Dev.
+- 🌱 I’m currently learning javascript
 
 <!---
 Kevinkp09/Kevinkp09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
