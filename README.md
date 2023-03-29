@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kevinkp09
-- 👀 I’m interested in Devops and Web Dev.
+- 👀 I’m interested in **Devops** and **Web Dev**.
 - 🌱 I’m currently learning javascript
 
 <!---
