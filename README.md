@@ -1,6 +1,7 @@
 -  ## Hello Folks, I’m Kevin 👋 
--   I’m interested in **Cloud Computing** and **Web Dev** 👀 
--   I’m currently learning ReactJS 🌱
+-   I’m interested in **Machine Learning** and **Web Dev** 👀
+-   MERN||Python||JAVA||
+  
 
 <!---
 Kevinkp09/Kevinkp09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
