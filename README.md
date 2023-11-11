@@ -1,6 +1,6 @@
 -  ## Hello Folks, I’m Kevin 👋 
 -   I’m interested in **Machine Learning** and **Web Dev** 👀
--   MERN||Python||JAVA||
+-   MERN||Python||JAVA||MYSql
   
 
 <!---
