@@ -1,6 +1,6 @@
 -  ## Hello Folks, I’m Kevin 👋 
 -   I’m interested in **Machine Learning** and **Web Dev** 👀
--   MERN||Python||Ruby||Ruby on Rails
+-   MERN||PostgreSQL||Ruby||Ruby on Rails
   
 
 <!---
